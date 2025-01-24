@@ -10,8 +10,8 @@ language: 'en-uk'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'jekyllt.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'h2l278.github.io/jasper/'
+google_analytics: 
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /jasper/
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
+username: h2l278
 repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://h2l278.github.io/jasper/
+source_url:  https://github.com/h2l278/jasper/
 
 exclude:
   - README.md
