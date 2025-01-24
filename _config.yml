@@ -14,7 +14,7 @@ short_url: 'https://loomlaymika.netlify.app/'
 google_analytics: 
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ""
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
